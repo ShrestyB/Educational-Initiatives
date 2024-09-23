@@ -1,7 +1,7 @@
-Overview
+# Overview
 This project implements a notification system using the Observer design pattern, allowing students to receive real-time updates on assignment deadlines set by teachers. When a teacher updates a deadline, all subscribed students are automatically notified.
 
-Features
+## Features
 Teacher and Student Roles: Teachers can set or change assignment deadlines, while students receive notifications.
 Real-time Notifications: Students are notified immediately when deadlines are updated.
 Dynamic Subscription: Students can subscribe or unsubscribe from notifications.
@@ -18,7 +18,7 @@ To set up the Notification System, follow these steps:
    cd NotificationSystem
 
 
-Usage
+## Usage
 Create a teacher instance and student instances.
 Students can subscribe to the teacher for notifications.
 Teachers can set deadlines using the setDeadline() method, which will notify all subscribed students.
