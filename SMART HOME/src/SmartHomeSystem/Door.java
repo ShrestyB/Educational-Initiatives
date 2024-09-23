@@ -2,11 +2,6 @@ package SmartHomeSystem;
 
 import java.util.logging.Logger;
 
-/**
- * The {@code Door} class represents a smart home Door device.
- * It implements the {@link Device} interface and provides methods to control and query the door's status.
- */
-
 public class Door implements Device {
 
     /*

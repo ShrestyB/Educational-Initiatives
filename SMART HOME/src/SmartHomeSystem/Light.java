@@ -2,10 +2,6 @@ package SmartHomeSystem;
 
 import java.util.logging.Logger;
 
-/**
- * The {@code Light} class represents a smart home light device.
- * It implements the {@link Device} interface and provides methods to control and query the light's status.
- */
 
 public class Light implements Device {
 

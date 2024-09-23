@@ -3,9 +3,6 @@ package SmartHomeSystem;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * The {@code Trigger} class represents a trigger condition and action for automating tasks in a smart home system.
- */
 
 public class Trigger {
     private String condition;

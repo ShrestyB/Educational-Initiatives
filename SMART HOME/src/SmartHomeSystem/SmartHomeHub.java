@@ -9,10 +9,6 @@ import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * The {@code SmartHomeHub} class represents a central hub for controlling smart home devices,
- * scheduling tasks, and managing triggers.
- */
 
 public class SmartHomeHub {
 

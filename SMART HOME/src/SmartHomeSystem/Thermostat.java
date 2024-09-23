@@ -4,10 +4,7 @@ import SmartHomeSystem.Exceptions.UnsupportedActionException;
 
 import java.util.logging.Logger;
 
-/**
- * The {@code Thermostat} class represents a smart home thermostat device.
- * It implements the {@link Device} interface and provides methods to control and query the thermostat's status.
- */
+
 
 public class Thermostat implements Device {
 

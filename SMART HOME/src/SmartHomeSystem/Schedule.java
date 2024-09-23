@@ -5,10 +5,6 @@ import SmartHomeSystem.Exceptions.UnsupportedActionException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * The {@code Schedule} class represents a scheduled task for a smart home device.
- * It specifies a time and action to be executed on a particular device.
- */
 
 public class Schedule {
     private final Device device;

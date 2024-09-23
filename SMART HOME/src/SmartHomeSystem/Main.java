@@ -7,9 +7,7 @@ import SmartHomeSystem.Exceptions.UnsupportedActionException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * The {@code Main} class is the entry point for the Smart Home System application.
- */
+
 
 public class Main {
     private final static Logger logger = Logger.getLogger(Main.class.getName());
