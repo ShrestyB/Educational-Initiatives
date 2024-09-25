@@ -10,14 +10,8 @@ This project implements a Grading System that allows for multiple evaluation str
 - **Dynamic Evaluation**: Select grading strategy at runtime.
 - **Separation of Concerns**: Uses design patterns to maintain clean code.
 
-## Installation
-
-To set up the Grading System, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd GradingSystem
-
 Design Patterns Used
 Strategy Pattern: Allows the selection of grading strategies at runtime.
+
+## Output
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/7e51be8b-f586-4243-8ffd-47633b603fe2">
