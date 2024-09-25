@@ -8,14 +8,10 @@ Dynamic Subscription: Students can subscribe or unsubscribe from notifications.
 Design Pattern Used
 Observer Pattern: The teacher acts as the subject, and students act as observers. When the teacher updates the deadline, all subscribed students receive notifications.
 
-## Installation
 
-To set up the Notification System, follow these steps:
+## Output
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/18da9321-feea-4498-8310-5e6095ca10e5">
 
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd NotificationSystem
 
 
 ## Usage
