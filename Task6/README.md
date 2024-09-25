@@ -11,3 +11,5 @@ This project demonstrates the **Decorator Design Pattern** by implementing a rol
 - **Flexible Design**: Easily extendable to include new roles and permissions without modifying the existing codebase.
 
 
+## Output
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/38d24c3f-1cda-4ac5-85f5-f760f1f51c5d">
