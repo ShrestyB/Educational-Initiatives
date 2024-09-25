@@ -24,4 +24,6 @@ This project implements a **Smart Home System** that allows users to control sma
 5. **View device status**: Check the current state of all devices in the home.
 6. **Add/remove devices** dynamically.
 
+## Output
+<img width="597" alt="image" src="https://github.com/user-attachments/assets/5b26e5e3-f56b-4fe3-94f7-7ae64db760d8">
 
