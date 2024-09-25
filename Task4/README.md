@@ -10,3 +10,7 @@ This project demonstrates the **Adapter Design Pattern** to integrate a legacy s
 - **Seamless Integration**: Allows the modern system to interact with the old API without changing the legacy system's code.
 - **Modular Design**: Isolates the old and new systems, making future modifications or replacements of the legacy system easier.
 
+## Output
+## Output
+<img width="457" alt="image" src="https://github.com/user-attachments/assets/9b125a3b-3664-41db-a83a-967334bef4c4">
+
