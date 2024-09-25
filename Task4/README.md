@@ -10,11 +10,3 @@ This project demonstrates the **Adapter Design Pattern** to integrate a legacy s
 - **Seamless Integration**: Allows the modern system to interact with the old API without changing the legacy system's code.
 - **Modular Design**: Isolates the old and new systems, making future modifications or replacements of the legacy system easier.
 
-## Installation
-
-To set up the Legacy Student Database Integration project, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd StudentDatabaseAdapter
