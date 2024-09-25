@@ -25,5 +25,5 @@ This project implements a **Smart Home System** that allows users to control sma
 6. **Add/remove devices** dynamically.
 
 ## Output
-<img width="597" alt="image" src="https://github.com/user-attachments/assets/5b26e5e3-f56b-4fe3-94f7-7ae64db760d8">
+<img width="538" alt="image" src="https://github.com/user-attachments/assets/1b045140-84f5-40eb-a602-a50e70be7936">
 
