@@ -10,11 +10,4 @@ This project demonstrates the **Decorator Design Pattern** by implementing a rol
 - **User Role System**: Supports different user roles (Admin, Teacher, Student) with varying levels of access.
 - **Flexible Design**: Easily extendable to include new roles and permissions without modifying the existing codebase.
 
-## Installation
 
-To set up the User Role-Based Access Control system, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd UserRoleAccessControl
