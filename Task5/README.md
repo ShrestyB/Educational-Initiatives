@@ -11,3 +11,5 @@ This project implements a Factory Pattern to generate different types of quiz qu
 - **Separation of Concerns**: Decouples the question creation logic from the main application logic.
 
 
+## Output
+<img width="486" alt="image" src="https://github.com/user-attachments/assets/d3ba17e1-b71e-4b2a-9e01-97c16ad26f32">
