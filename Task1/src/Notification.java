@@ -12,8 +12,8 @@ public class Notification {
             Student student2 = new Student("Bohra");
 
             // Add observers
-            teacher.addObserver(student1);
-            teacher.addObserver(student2);
+            teacher.addObservers(student1);
+            teacher.addObservers(student2);
 
             // Set deadline
             teacher.setDeadline("21th Sept, 2024");
