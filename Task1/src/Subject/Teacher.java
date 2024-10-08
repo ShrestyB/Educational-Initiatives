@@ -30,15 +30,6 @@ public class Teacher implements Subject {
         }
     }
 
-    @Override
-    public void addObserver(Observers observer) {
-
-    }
-
-    @Override
-    public void removeObserver(Observers observer) {
-
-    }
 
     @Override
     public void notifyObservers(String message) {
